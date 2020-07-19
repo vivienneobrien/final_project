@@ -13,6 +13,6 @@ o	Choose your base currency i.e.
 -	Worked on more efficient ways to import my data compare to uploading a csv file e.g. using the quandl API and manipulating data this way.
 -	Difficulty: Was able to use a sample of the COVID-19 data set API however this is only a daily recording. 
 -	Did more work with csv in the mean time
--	Need to fix normalisation method as my results are too large a value from what is predicted
+-	Need to fix normalisation method as my results are too large a value from what is predicted 
 
 	
